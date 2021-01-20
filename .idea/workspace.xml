@@ -1,17 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d37bafe-2f9f-4ae1-a62a-746a0ff49fcf" name="Default Changelist" comment="" />
+    <list default="true" id="3d37bafe-2f9f-4ae1-a62a-746a0ff49fcf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1051. Height Checker(Counting Sort).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1428. Leftmost Column with at Least a One.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/15. 3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/153. Find Minimum in Rotated Sorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/1588. Sum of All Odd Length Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/209. Minimum Size Subarray Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/605. Can Place Flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Binary Search/74. Search a 2D Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/Find the Duplicate Number in O(1) S(1).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/sort/1051. Height Checker(Counting Sort).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/subarray/1588. Sum of All Odd Length Subarrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/subarray/209. Minimum Size Subarray Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap/215. Kth Largest Element in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/1265. Print Immutable Linked List in Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/142. Linked List Cycle II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/206. Reverse Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/92. Reverse Linked List II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/453. Minimum Moves to Equal Array Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Math/927. Three Equal Parts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/359. Logger Rate Limiter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queue/362. Design Hit Counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive/1265. Print Immutable Linked List in Reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive/DP/70. Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive/DP/91. Decode Ways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursive/DP/Decode Ways.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/262. Trips and Users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/Consecutive/1454. Active Users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/Consecutive/180. Consecutive Numbers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/Consecutive/601. Human Traffic of Stadium.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/DATE&amp;TIME/1479. Sales by Day of the Week.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/DELETE/196. Delete Duplicate Emails.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/Join/1270. All People Report to the Given Manager.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/Join/175. Combine Two Tables.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/Join/181. Employees Earning More Than Their Managers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/ROW_NUMBER/178. Rank Scores.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/n-th question/176. Second Highest Salary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/n-th question/177. Nth Highest Salary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/n-th question/184. Department Highest Salary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/BFS/1197. Minimum Knight Moves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/BFS/173. Binary Search Tree Iterator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/BFS/79. Word Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/1381. (lazy Increment)Design a Stack With Increment Operation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/1441. Build an Array With Stack Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/155. Min Stack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stack/739. Daily Temperature.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/Post Request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requests/words_from_hatebase.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jZVWD07US7mejwVSv8w2EMPMgb" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Recursive" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Kazuo-Leetcode\Recursive" />
+      <recent name="D:\Kazuo-Leetcode\Array\subarray" />
+      <recent name="D:\Kazuo-Leetcode\Array\sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Kazuo-Leetcode\SQL\Join" />
+      <recent name="D:\Kazuo-Leetcode\SQL\n-th question" />
+      <recent name="D:\Kazuo-Leetcode\Array" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -23,6 +98,78 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.Height Checker(Counting Sort)">
+    <configuration name="API interactions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kazuo-Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Kazuo-Leetcode\requests\Post Request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Height Checker(Counting Sort)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kazuo-Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Kazuo-Leetcode\Array\1051. Height Checker(Counting Sort).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Post Request" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Kazuo-Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requests/Post Request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Height Checker(Counting Sort)" />
+        <item itemvalue="Python.Post Request" />
+        <item itemvalue="Python.API interactions" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,7 +189,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
