@@ -1,3 +1,4 @@
+"""
 Write a SQL query to get the nth highest salary from the Employee table.
 
 +----+--------+
@@ -14,6 +15,7 @@ For example, given the above Employee table, the nth highest salary where n = 2 
 +------------------------+
 | 200                    |
 +------------------------+
+"""
 
 
 # N-th question, use LIMIT AND ORDER
