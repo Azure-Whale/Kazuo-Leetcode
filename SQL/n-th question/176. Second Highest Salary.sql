@@ -1,4 +1,4 @@
-SQL Schema
+"""SQL Schema
 Write a SQL query to get the second highest salary from the Employee table.
 
 +----+--------+
@@ -18,7 +18,7 @@ For example, given the above Employee table, the query should return 200 as the 
 Attention, the return value should be null if there is no No.2
 Solutions:
 1. Use Aggregation function, it would automatically return Max if there is no corresponding value
-2. Use SELECT IFNULL((your query), NULL)
+2. Use SELECT IFNULL((your query), NULL)"""
 
 SELECT IFNULL((
 SELECT e1.Salary
