@@ -10,7 +10,7 @@
 
 class TwoSum(object):
     """
-    Using Dict or Two pointer to help you, if you need Two pointer, you shall sort it firstly( O(nlongn))
+    Using Dict or Two pointer to help you, if you need Two pointer, you shall sort it firstly( O(nlongn)), so use two pointer only if you are given a sorted array
     """
     def twoSum1(self, nums, target):
         nums = list(sorted(enumerate(nums), key=lambda x: x[1])) # It keeps the origin index but sort by current value
